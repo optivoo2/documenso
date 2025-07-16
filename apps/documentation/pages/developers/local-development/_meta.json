@@ -4,5 +4,6 @@
   "manual": "Manual Setup",
   "gitpod": "Gitpod",
   "signing-certificate": "Signing Certificate",
-  "translations": "Translations"
+  "translations": "Translations",
+  "stripe": "Local Stripe"
 }

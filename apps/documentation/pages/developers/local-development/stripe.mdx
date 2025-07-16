@@ -1,0 +1,18 @@
+---
+title: Local Stripe
+description: Running Stripe locally for testing payments.
+---
+
+# Local Stripe Setup
+
+To develop features that rely on Stripe webhooks or billing flows, you can run the Stripe CLI to forward events to your local environment.
+
+```bash
+# Install the Stripe CLI if you don't already have it
+stripe login
+
+# Forward webhooks to your local server
+stripe listen --forward-to localhost:3000/api/webhooks/stripe
+```
+
+For additional details see the [Stripe CLI documentation](https://stripe.com/docs/stripe-cli).
