@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-07-24 13:01+1000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: pt-BR\n"
+"Project-Id-Version: documenso-app\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Brazilian Portuguese\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: apps/remix/app/components/dialogs/template-direct-link-dialog.tsx
+msgid " Enable direct link signing"
+msgstr " Habilitar assinatura via link direto"
+
+#: apps/remix/app/components/embed/authoring/configure-document-upload.tsx
+msgid ".PDF documents accepted (max {APP_DOCUMENT_UPLOAD_SIZE_LIMIT}MB)"
+msgstr "Documentos .PDF aceitos (máx {APP_DOCUMENT_UPLOAD_SIZE_LIMIT}MB)"
+
+#. placeholder {0}: field.customText
+#. placeholder {1}: timezone || ''
+#: apps/remix/app/components/general/document-signing/document-signing-date-field.tsx
+msgid "\"{0}\" will appear on the document as it has a timezone of \"{1}\"."
+msgstr "\"{0}\" aparecerá no documento pois tem o fuso horário \"{1}\"."
+
+#: packages/email/template-components/template-document-super-delete.tsx
+msgid "\"{documentName}\" has been deleted by an admin."
+msgstr "\"{documentName}\" foi excluído por um administrador."
+
+#: packages/email/template-components/template-document-pending.tsx
+msgid "“{documentName}” has been signed"
+msgstr "“{documentName}” foi assinado"
+
+#: packages/email/template-components/template-document-completed.tsx
+msgid "“{documentName}” was signed by all signers"
+msgstr "“{documentName}” foi assinado por todos os signatários"
+
+#: apps/remix/app/components/dialogs/document-delete-dialog.tsx
+msgid "\"{documentTitle}\" has been successfully deleted"
+msgstr "\"{documentTitle}\" foi excluído com sucesso"
+
+#: apps/remix/app/components/forms/document-preferences-form.tsx
+msgid "\"{placeholderEmail}\" on behalf of \"Team Name\" has invited you to sign \"example document\"."
+msgstr "\"{placeholderEmail}\" em nome de \"Team Name\" convidou você para assinar \"example document\"."
+
+#: apps/remix/app/components/forms/document-preferences-form.tsx
+msgid "\"Team Name\" has invited you to sign \"example document\"."
+msgstr "\"Team Name\" convidou você para assinar \"example document\"."
