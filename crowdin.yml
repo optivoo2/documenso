@@ -1,4 +1,5 @@
 # Any changes to these paths should be reflected in the root lingui.config.ts
+project_id: 809704
 files:
   - source: packages/lib/translations/en/web.po
     translation: packages/lib/translations/%two_letters_code%/%original_file_name%
