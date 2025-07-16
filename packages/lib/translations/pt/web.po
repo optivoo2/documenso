@@ -14,9 +14,10 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #: apps/remix/app/components/dialogs/template-direct-link-dialog.tsx
-msgid " Enable direct link signing"
-msgstr " Habilitar assinatura via link direto"
-
+-msgid " Enable direct link signing"
+-msgstr " Habilitar assinatura via link direto"
++msgid "Enable direct link signing"
++msgstr "Habilitar assinatura via link direto"
 #: apps/remix/app/components/embed/authoring/configure-document-upload.tsx
 msgid ".PDF documents accepted (max {APP_DOCUMENT_UPLOAD_SIZE_LIMIT}MB)"
 msgstr "Documentos .PDF aceitos (máx {APP_DOCUMENT_UPLOAD_SIZE_LIMIT}MB)"
